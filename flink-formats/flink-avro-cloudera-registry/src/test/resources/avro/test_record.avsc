@@ -1,0 +1,7 @@
+{"namespace": "org.apache.flink.formats.avro.registry.cloudera.generated",
+ "type": "record",
+ "name": "TestRecord",
+ "fields": [
+     {"name": "intField", "type": "int"}
+  ]
+}
